@@ -1,4 +1,4 @@
-# Particle41 DevOps Challenge
+# DevOps Challenge
 
 This repository contains my solution to the Particle41 DevOps technical assessment.
 The goal of this project is to demonstrate DevOps fundamentals including
