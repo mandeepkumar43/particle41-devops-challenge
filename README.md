@@ -37,7 +37,6 @@ GET /
 
 ### Sample Response
 
-```json
 {
   "timestamp": "2025-12-08T09:55:38.747230Z",
   "ip": "192.168.1.24"
