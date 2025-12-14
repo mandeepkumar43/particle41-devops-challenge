@@ -83,9 +83,13 @@ Application Load Balancer
 ECS Service and Task Definition
 
 ### Terraform Commands
+
 cd terraform
+
 terraform init
+
 terraform plan
+
 terraform apply
 
 ### LocalStack Usage (Important)
